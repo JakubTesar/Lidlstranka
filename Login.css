@@ -1,0 +1,64 @@
+body {
+    background-image: url("Metroweblogin1.jpg");
+    background-size: 1920px 1080px;
+}
+.nadpis {
+    font-family: "Arial Black";
+}
+
+.container {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    display: block;
+    margin: 50px auto;
+    padding: 30px;
+    width: 300px;
+    background-color: #161616;
+    color: #cbcbcb;
+}
+
+.usernamelabel {
+    font-family: "Arial Black";
+    display: inline-block;
+    width: 110px;
+}
+
+.passwordlabel {
+    font-family: "Arial Black";
+    display: inline-block;
+    width: 110px;
+}
+
+.Iaccept {
+    display: inline-block;
+}
+
+input {
+    font-family: "Arial Black";
+    margin-top: 5px;
+    margin: 10px;
+
+}
+.submit-button{
+    background-color: #000000;
+    border: none;
+    color: #cbcbcb;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.submit-button:hover {
+    color: #cbcbcb;
+}
+.submit-button:active {
+    background-color: #919191;
+}
+input {
+    padding: 4px 20px;
+    border: solid #666565;
+}

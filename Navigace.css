@@ -1,0 +1,36 @@
+.body {
+    background-image : url("Metroweb1.jpg");
+    background-size: 1920px 1080px;
+}
+/* ------------------------------------------------------*/
+.jedna {
+    text-align: center;
+    text-decoration: none;
+}
+/* ------------------------------------------------------*/
+ul {
+    background-image: url("Background.jpg");
+    padding: -150px;
+    text-decoration: none;
+    /* ------------------------------------------------------*/
+}
+.jedna li {
+    font-family: "Arial Black";
+    color: #ff0303;
+    display: inline-block;
+    text-decoration: none;
+    padding: 0px 16px;
+}
+/* ------------------------------------------------------*/
+a {
+    display: inline-block;
+    color: #cbcbcb;
+    text-decoration: none;
+}
+/* ------------------------------------------------------*/
+a:hover {
+    display: inline-block;
+    background-color: #414141;
+    color: #cbcbcb;
+    border: 2px solid black;
+}
