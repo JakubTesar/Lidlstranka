@@ -1,0 +1,90 @@
+body {
+    background-image: url("Metrocontactweb3.jpg");
+    background-size: 1920px 1080px;
+}
+
+
+.submit-button{
+    font-family: "Arial Black";
+    background-color: greenyellow;
+    margin: auto;
+    padding: 15px 32px;
+    display: inline-block;
+    border: none;
+    text-align: center;
+}
+
+.submit-button:hover{
+    color: #000000;
+}
+.submit-button:active{
+ background-color: #808080;
+}
+.prvniform {
+    padding: 150px;
+    text-align: right;
+    color: greenyellow;
+    background-image: url("Background.jpg");
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: "Arial Black";
+    size: 100px 100px;
+    width: 300px;
+    float:left;
+    display: inline-block;
+    border: solid black;
+}
+.druhyform{
+    border: solid black;
+    display: inline-block;
+    background-color: #808080;
+
+}
+.Zprava{
+    display: inline-block;
+    height: 100px;
+    size: auto;
+    color: #ff0303;
+}
+
+.ContactH1 {
+    margin-left:150px ;
+    font-family: "Arial Black";
+}
+input{
+    size: 100px 100px;
+    font-family: "Arial Black";
+}
+
+.jedna {
+    text-align: center;
+    text-decoration: none;
+}
+/* ------------------------------------------------------*/
+.Logo {
+    image-size: 20px 10px;
+    margin: -25px;
+}
+ul {
+    background-image: url("Background.jpg");
+    padding: -150px;
+    text-decoration: none;
+    /* ------------------------------------------------------*/
+}
+.jedna li {
+    font-family: "Arial Black";
+    color: #ff0303;
+    display: inline-block;
+    text-decoration: none;
+    padding: 0px 16px;
+}
+/* ------------------------------------------------------*/
+a {
+    display: inline-block;
+    color: #cbcbcb;
+    text-decoration: none;
+}
+/* ------------------------------------------------------*/
+a:hover {
+    color: greenyellow;
+}

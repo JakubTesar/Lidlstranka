@@ -1,0 +1,35 @@
+body {
+    background-image: url("Metrowebcompany.jpg");
+}
+.jedna {
+    text-align: center;
+    text-decoration: none;
+}
+/* ------------------------------------------------------*/
+.Logo {
+    image-size: 60px 40px;
+    margin: -25px;
+}
+ul {
+    background-image: url("Background.jpg");
+    padding: -150px;
+    text-decoration: none;
+    /* ------------------------------------------------------*/
+}
+.jedna li {
+    font-family: "Arial Black";
+    color: #ff0303;
+    display: inline-block;
+    text-decoration: none;
+    padding: 0px 16px;
+}
+/* ------------------------------------------------------*/
+a {
+    display: inline-block;
+    color: #cbcbcb;
+    text-decoration: none;
+}
+/* ------------------------------------------------------*/
+a:hover {
+    color: greenyellow;
+}
