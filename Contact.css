@@ -18,7 +18,7 @@ body {
     color: #000000;
 }
 .submit-button:active{
- background-color: #808080;
+ background-color: lightgray;
 }
 .prvniform {
     padding: 150px;
@@ -44,7 +44,7 @@ body {
     display: inline-block;
     height: 100px;
     size: auto;
-    color: #ff0303;
+
 }
 
 .ContactH1 {

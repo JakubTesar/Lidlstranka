@@ -1,8 +1,12 @@
+.Galerie img{
+    width: 400px;
+    margin: 30px;
+    border: 2px solid #ffffff;
+}
 
 body {
     background-image: url("Metrogalerieweb.jpg");
 }
-
 .jedna {
     text-align: center;
     text-decoration: none;

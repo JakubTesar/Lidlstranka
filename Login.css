@@ -4,10 +4,7 @@ body {
 }
 .nadpis {
     font-family: "Arial Black";
-}
-
-.container {
-    text-align: center;
+    color: lightgray;
 }
 
 form {
@@ -16,8 +13,9 @@ form {
     margin: 50px auto;
     padding: 30px;
     width: 300px;
-    background-color: #161616;
-    color: #cbcbcb;
+    background-image: url("Background.jpg");
+    color: greenyellow;
+    border: solid black;
 }
 
 .usernamelabel {
@@ -31,9 +29,14 @@ form {
     display: inline-block;
     width: 110px;
 }
+.Checkbox:after{
+    background-color: lightgray;
+}
 
 .Iaccept {
-    display: inline-block;
+    color: lightgray;
+    font-family: "Arial Black";
+    pointer-events: stroke;
 }
 
 input {
@@ -43,9 +46,10 @@ input {
 
 }
 .submit-button{
-    background-color: #000000;
+    font-family: "Arial Black";
+    background-color: greenyellow;
     border: none;
-    color: #cbcbcb;
+    color: black;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -53,12 +57,10 @@ input {
     font-size: 16px;
 }
 .submit-button:hover {
-    color: #cbcbcb;
+    background-color: lightgray;
 }
-.submit-button:active {
-    background-color: #919191;
-}
+
 input {
     padding: 4px 20px;
-    border: solid #666565;
+    border: solid lightgray;
 }
