@@ -1,3 +1,39 @@
+p{
+    color: #818181;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-image: url("Background.jpg") ;
+    font-family: "Arial Black";
+    font-size: 25px;
+    border: solid #000000;
+}
+.Problem{
+    margin-top: 200px;
+}
+.Job{
+    color: #818181;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: "Arial Black";
+    font-size: 25px;
+    border: solid #000000;
+}
+.Zelena{
+    color: greenyellow;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: "Arial Black";
+    font-size: 25px;
+    border: solid #000000;
+}
+h1{
+    font-family: "Arial Black";
+    margin-left: 150px;
+    color: #d7d7d7;
+}
+
+
+
 body {
     background-image: url("Metrowebcompany.jpg");
 }

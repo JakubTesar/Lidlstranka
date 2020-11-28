@@ -1,3 +1,17 @@
+h1{
+    font-family: "Arial Black";
+    font-size: 50px;
+    text-align: center;
+    color: greenyellow;
+    margin: 150px;
+    background-image: url("Background.jpg");
+    border: solid 2px black;
+}
+.fa-instagram{
+    float: left;
+margin: 15px;
+}
+
 .body {
     background-image : url("Metroweb1.jpg");
     background-size: 1920px 1080px;
